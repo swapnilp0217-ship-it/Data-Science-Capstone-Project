@@ -1,1 +1,23 @@
+SpaceX-Falcon-9-Landing-Prediction/
+│
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_data_wrangling.ipynb
+│   ├── 03_eda_sql.ipynb
+│   ├── 04_eda_visualization.ipynb
+│   ├── 05_interactive_map.ipynb
+│   ├── 06_machine_learning.ipynb
+│
+├── dashboard/
+│   ├── spacex-dash-app.py
+│   ├── spacex_launch_dash.csv
+│
+├── data/
+│   ├── dataset_part_1.csv
+│   ├── dataset_part_2.csv
+│
+├── presentation/
+│   └── SpaceX_Capstone_Presentation.pdf
+│
+├── README.md
 
